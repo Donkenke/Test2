@@ -12,4 +12,5 @@ Try this for a *change*:
 
 [Puedo intentar esto](www.google.cl)
 
-'console.writeline("O el tipico subrayado de consola");'
+
+`Console.writeline("O el tipico subrayado de consola");`
